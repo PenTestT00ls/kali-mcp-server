@@ -28,7 +28,7 @@ AI助手 (MCP客户端) ←→ mcp_server.py ←→ kali_server.py ←→ Kali L
 1. **克隆项目**
    ```bash
    git clone <repository-url>
-   cd trae-kali-mcp
+   cd kali-mcp-server
    ```
 
 2. **安装依赖**
@@ -401,3 +401,4 @@ john_crack(
 欢迎提交Issue和Pull Request来改进本项目。
 
 **免责声明**：本工具仅供安全研究和授权测试使用，使用者需对自身行为承担全部法律责任。
+
