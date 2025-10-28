@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "kali_mcp": {
+      "timeout": 180,
+      "type": "stdio",
+      "command": "D:\\Users\\12170\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+      "args": [
+        "D:\\NetSafety\\MCP-Kali-Server-main\\mcp_server.py",
+        "--server",
+        "http://192.168.20.130:5000/"
+      ]
+    }
+  }
+}

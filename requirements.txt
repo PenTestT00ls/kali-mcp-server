@@ -1,0 +1,23 @@
+# Kali MCP 项目依赖
+
+# Web框架
+Flask>=2.3.0
+requests>=2.31.0
+
+# MCP相关
+mcp>=1.0.0
+fastmcp>=1.0.0
+
+# 标准库依赖（通常已包含在Python中）
+# argparse, json, logging, os, subprocess, sys, traceback, threading, datetime, typing
+
+# 可选依赖（用于特定功能）
+# 如果需要额外的功能，可以添加以下依赖：
+# python-dotenv>=1.0.0  # 环境变量管理
+# colorlog>=6.7.0      # 彩色日志输出
+# psutil>=5.9.0       # 系统监控
+
+# 开发依赖
+# pytest>=7.4.0      # 测试框架
+# black>=23.0.0      # 代码格式化
+# flake8>=6.0.0      # 代码检查
